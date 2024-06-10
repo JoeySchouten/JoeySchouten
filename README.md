@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi! I’m Joey! 
+I’m a creative professional who specialised in digital board games over the past half decade, bringing games to the table and various screens using Unity C# and Godot’s GDScript. In these years while working as a Head of Development for a board game startup and as a freelance game developer, I’ve picked up a skill set as varied and broad as the game design, development, and publishing process. Now, I’m looking to apply my creativity and these skills to a new set of problems.
+
+<!-- - Read more about my projects on [my website.]()-->
+- Check out my [LinkedIn profile.](www.linkedin.com/in/joeyschouten)
+<!-- - Have a look at [my resume.]()-->
 
 <!--
 **JoeySchouten/JoeySchouten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
